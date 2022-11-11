@@ -2,8 +2,5 @@ Please enter your name below:
 Arturs Olekss
 marta lapina
 Jolanta Janulaityte
-<<<<<<< HEAD
 Juta Jasiulioniene
-=======
 Santa Kesane
->>>>>>> d0104b857f0ee3b7422e08197603ce527c9b82a3
