@@ -1,14 +1,11 @@
 Please enter your name below:
 Arturs Olekss
-marta lapina
+Marta Lapina
 Jolanta Janulaityte
-<<<<<<< HEAD
-Santa Kesane
-Egle Zyge
-=======
 Juta Jasiulioniene
 Santa Kesane
->>>>>>> 79d3380f18d68284b29a403b9956db66b618f07c
+Egle Zyge
+Santa Kesane
 Anete Vodinska
 Jelena Jas
 Anda Kelmere
